@@ -46,6 +46,6 @@ I learnt how to structure HTML with semantic elements and how to structure a web
 
 ## Author
 
-- Website - [Add your name here](https://github.com/yrnmalone0)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yrnmalone0)
-- Twitter - [@yourusername](https://www.twitter.com/yrnmalonee)
+- Website - [yrnmalone0](https://github.com/yrnmalone0)
+- Frontend Mentor - [@yrnmalone0](https://www.frontendmentor.io/profile/yrnmalone0)
+- Twitter - [@yrnmalonee](https://www.twitter.com/yrnmalonee)
